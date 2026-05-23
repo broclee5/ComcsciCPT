@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3MQApFKGHSs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amans\\Downloads\\Game Project-20260523T220930Z-3-001\\Game Project\\RayCasting_Demo\\RayCasting_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\amans\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\amans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\amans\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
